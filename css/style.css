@@ -1,0 +1,20 @@
+.center{
+    text-align: center;
+}
+
+p{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.listcenter{
+    list-style-position: inside;
+    display: table;
+    text-align: left;
+    margin: 0 auto;
+}
+
+.rengo{
+    color: cornsilk;
+    background-color: darkseagreen;
+}
